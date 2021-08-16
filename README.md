@@ -1,7 +1,7 @@
 
 ### Hi there  👋
 
-I'm a time traveler from 1354, here for Tame Impala.\
+I'm a time traveler from 1354, here for Tame Impala.
 
 🦄 \
 Co-founder and CTO at [Bookee](https://bookeeapp.com/)\
