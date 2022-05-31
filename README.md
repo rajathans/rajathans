@@ -8,10 +8,13 @@ Co-founder and CTO at [Bookee](https://bookeeapp.com/)\
 Ex-SDE at [Shiprocket](https://www.shiprocket.in/)
 
 🛠  \
-React/Gatsby\
-React Native (Expo)\
-Laravel/NodeJS + MySQL + GraphQL/REST\
-DigitalOcean/Heroku + K8s
+React and Gatsby\
+React Native (with Expo)\
+Laravel and NodeJS\
+MySQL\
+GraphQL and REST\
+DigitalOcean and Heroku\
+K8s
 
 🔗\
 [Medium](https://medium.com/@rajathans)\
