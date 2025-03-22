@@ -14,7 +14,7 @@ Laravel / Django\
 MySQL / Redshift\
 GraphQL / REST\
 AWS\
-Cursor AI\
+Cursor AI
 
 🔗\
 [Medium](https://medium.com/@rajathans)\
