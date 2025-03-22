@@ -4,16 +4,17 @@
 I'm a time traveler from 1354, here for Tame Impala.
 
 🦄 \
-Co-founder and CTO at [Bookee](https://bookeeapp.com/)\
+Co-founder and CTO at [Kenko AI](https://gonkenko.com/)\
 Ex-SDE at [Shiprocket](https://www.shiprocket.in/)
 
 🛠  \
-React / Gatsby\
-React Native (with Expo)\
-Laravel / NodeJS\
-MySQL\
+React / NextJS\
+React Native (Expo)\
+Laravel / Django\
+MySQL / Redshift\
 GraphQL / REST\
-DigitalOcean / Heroku / K8s
+AWS\
+Cursor AI\
 
 🔗\
 [Medium](https://medium.com/@rajathans)\
